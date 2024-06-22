@@ -72,7 +72,7 @@ Exemplo de resposta:
 
 ##### Falha na autenticação! 401
 Caso essa resposta aconteça, isso significa que aconteceu alguma falha durante o processo de autenticação da requisição.
-Motivos: Token inválido, Token exprirado
+Motivos: Email e Password digitados pelo usuario incorretos.
 
 Exemplo de resposta:
 ```
